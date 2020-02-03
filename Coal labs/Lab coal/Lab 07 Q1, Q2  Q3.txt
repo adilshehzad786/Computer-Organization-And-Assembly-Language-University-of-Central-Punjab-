@@ -1,0 +1,14 @@
+Write a program that read four elements from an array one by one in AX and push them in stack. Now using pop, add all of them in BX and store result in SUM variable.
+
+Write a program that read an array ARR and reverse it, and store it again in ARR.
+Assume Arr: dw 1,2,3,8,9
+
+
+Write a program that read an array ARR1 and copy it in ARR2 in same order using stack. You are not allowed to store array value in any register or copy values without using stack.
+
+Assume 
+Arr1: dw 1,2,9,8,5,2
+Arr2: dw 0,0,0,0,0,0
+
+Output
+Arr2: dw 1,2,9,8,5,2
